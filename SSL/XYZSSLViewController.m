@@ -35,17 +35,11 @@
     
     //Create a URL object.
     NSString *fullURL = @"https://www.roshka.com/ItauGW/";
-//    NSString *fullURL = @"www.google.com";
     self.url = [NSURL URLWithString:fullURL];
     NSURLRequest *requestObj = [NSURLRequest requestWithURL:self.url];
     [self.webView loadRequest:requestObj];
     NSURLConnection *connection = [[NSURLConnection alloc] initWithRequest:requestObj delegate:self];
     [connection start];
-    
-//    NSString *fullURL = @"http://conecode.com";
-//    NSURL *url = [NSURL URLWithString:fullURL];
-//    NSURLRequest *requestObj = [NSURLRequest requestWithURL:url];
-//    [self.webView loadRequest:requestObj];
 }
 
 
@@ -76,7 +70,6 @@
 {
     [self.resultData appendData:data];
 }
-
 
 - (void)connectionDidFinishLoading:(NSURLConnection *)connection
 {

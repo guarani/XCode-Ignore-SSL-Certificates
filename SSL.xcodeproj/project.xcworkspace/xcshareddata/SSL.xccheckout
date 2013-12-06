@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C67EAB69-A954-4956-8376-DDE08228F8EB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SSL</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1BC45749-7FC1-4EF9-9205-40A6092FCFCD</key>
+		<string>https://github.com/guarani/XCode-Ignore-SSL-Certificates.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SSL.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1BC45749-7FC1-4EF9-9205-40A6092FCFCD</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/guarani/XCode-Ignore-SSL-Certificates.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1BC45749-7FC1-4EF9-9205-40A6092FCFCD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1BC45749-7FC1-4EF9-9205-40A6092FCFCD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SSL</string>
+		</dict>
+	</array>
+</dict>
+</plist>
